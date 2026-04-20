@@ -1,3 +1,20 @@
+# intel-links
+
+Uma curadoria de recursos para quem trabalha ou estuda Threat Intelligence, CTI, DFIR, analise de malware e seguranca ofensiva e defensiva.
+
+Aqui voce encontra feeds de IOCs, plataformas de TI, sandboxes, repositorios de amostras, trackers de ransomware, ferramentas OSINT, noticias do setor e muito mais. Tudo organizado por categoria para facilitar o dia a dia de quem esta na linha de frente.
+
+O conteudo e voltado para uso profissional e educacional. Acesse com responsabilidade.
+
+Saiba mais em [byfranke.com](https://byfranke.com)
+
+Faca parte da comunidade:
+* [Discord](https://sheep.byfranke.com/discord)
+* [Telegram](https://sheep.byfranke.com/telegram)
+* [Whatsapp](https://sheep.byfranke.com/whatsapp)
+
+---
+
 ## Noticias & Blogs
 
 | Link | Descricao |
@@ -128,3 +145,11 @@
 ---
 
 > **AVISO:** O acesso e uso de qualquer um desses servicos ocorre sob sua inteira responsabilidade. Tenha consciencia dos riscos envolvidos. Acesse apenas conteudos permitidos por lei e evite qualquer interacao com mercados ilicitos ou foruns criminosos. Lembre-se: navegacao nao e crime, mas envolvimento com atividades ilegais e.
+
+---
+
+## Donation Support
+
+This tool is maintained through community support. Help keep it active:
+
+[![Donate](https://img.shields.io/badge/Support-Development-blue?style=for-the-badge&logo=github)](https://buy.byfranke.com/b/8wM03kb3u7THeIgaEE)
