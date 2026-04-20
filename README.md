@@ -62,6 +62,7 @@ Faca parte da comunidade:
 
 | Link | Descricao |
 |------|-----------|
+| [Analyze (byFranke)](https://byfranke.com/pages/analyze.html) | Análise multi-fonte de IOCs com inteligência de ameaças |
 | [VirusTotal](https://www.virustotal.com/gui/home/upload) | Analise de arquivos/URLs em multiplos engines |
 | [ANY.RUN](https://app.any.run/) | Sandbox interativo em tempo real |
 | [ANY.RUN Malware Trends](https://any.run/malware-trends/) | Tendencias de malware com base nas analises |
@@ -96,9 +97,9 @@ Faca parte da comunidade:
 
 | Link | Descricao |
 |------|-----------|
+| [Ransomware Intelligence (byFranke)](https://byfranke.com/pages/ransomware-intel.html) | Painel com vitimas recentes, grupos ativos e sites .onion |
 | [Ransomware.live (Brazil)](https://www.ransomware.live/country/BRA) | Vitimas de ransomware filtradas para o Brasil |
 | [Ransomlook](https://www.ransomlook.io/) | Rastreamento de grupos, vitimas e dados |
-| [Ransomware Intelligence (byFranke)](https://byfranke.com/pages/ransomware-intel.html) | Painel com vitimas recentes, grupos ativos e sites .onion |
 
 ---
 
@@ -152,4 +153,4 @@ Faca parte da comunidade:
 
 This tool is maintained through community support. Help keep it active:
 
-[![Donate](https://img.shields.io/badge/Support-Development-blue?style=for-the-badge&logo=github)](https://buy.byfranke.com/b/8wM03kb3u7THeIgaEE)
+[![Donate](https://img.shields.io/badge/Support-Development-blue?style=for-the-badge&logo=github)](https://donate.stripe.com/8wM03kb3u7THeIgaEE)
